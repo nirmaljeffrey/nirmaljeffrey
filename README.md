@@ -22,7 +22,7 @@
 ## 🔗 Know more about me 
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:jeffattry@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/nirmaljeffrey)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nirmal-jeffret/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nirmal-jeffrey/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@NirmalJeffrey)
 [![Google Play](https://img.shields.io/badge/-Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/dev?id=7515742794498787327)
 
