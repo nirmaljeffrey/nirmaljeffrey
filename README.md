@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nirmal Jeffrey!
+![](https://komarev.com/ghpvc/?username=nirmaljeffrey)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirmaljeffrey)](https://git.io/streak-stats)
 
 <!--
 **nirmaljeffrey/nirmaljeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
