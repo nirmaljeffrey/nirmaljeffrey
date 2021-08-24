@@ -19,7 +19,7 @@
             width="40" height="40"/> </a>
 </p>
 
-## 🔗 Know more about me 
+## Know more about me 
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:jeffattry@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/nirmaljeffrey)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nirmal-jeffrey/)
